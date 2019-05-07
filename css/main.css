@@ -1,9 +1,20 @@
-.header-right {
+         .header_right {
          float: right;
          text-transform: uppercase;
          }
 
-         .foot-header {
+         .github_link {
+          border: 1px solid #ddd;
+          border-radius: 5px;
+          margin: 1%;
+          position:relative;
+          overflow: hidden;
+          padding: 5px;
+          white-space: nowrap;
+          display:inline-block;
+         }
+
+         .footer_header {
          float: center;
          text-transform: none;
          color: mediumpurple;
